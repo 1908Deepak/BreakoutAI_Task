@@ -70,6 +70,19 @@ Language: Python
 
 Software: Google Colab
 
+## Demo
 
-<img src ='Sample Output 1.png'>
+[ddd](https://www.python.org/downloads/)
 
+## Support
+
+For support, email deepaksingh190810@gmail.com
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Documentation
+
+[Documentation](https://docs.google.com/document/d/1hGIx8ahHNLQebnLw37qsk8uCbEO2oqHK/edit?usp=sharing&ouid=110553890098207369686&rtpof=true&sd=true)
