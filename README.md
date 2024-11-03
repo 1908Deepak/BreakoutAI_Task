@@ -70,7 +70,6 @@ Language: Python
 
 Software: Google Colab
 
-## Screenshots
 
-![App Screenshot]("https://drive.google.com/file/d/1-cBPIey_FUeqOKTpFf9J17tFEfRAc3xF/view?usp=sharing")
+<img src ='Sample Output 1.png'>
 
