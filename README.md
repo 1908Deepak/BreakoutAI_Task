@@ -70,9 +70,9 @@ Language: Python
 
 Software: Google Colab
 
-## Demo
+## Introduction
 
-[ddd](https://www.python.org/downloads/)
+[Brief Introduction of Project](https://www.loom.com/share/6489d5ea0dac49d4a32654fcb6082254?sid=a33ff71a-19ed-451e-bcdc-0e86d3a6e6fa)
 
 ## Support
 
